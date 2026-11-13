@@ -1,0 +1,7 @@
+{
+  "name": "sakura-zen",
+  "version": "0.2.0",
+  "description": "Statusline animada en pixel-art: petalos de sakura y paisajes japoneses que se construyen mientras Claude trabaja",
+  "author": { "name": "Martin Yu" },
+  "license": "MIT"
+}
